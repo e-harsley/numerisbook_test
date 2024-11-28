@@ -5,7 +5,7 @@ The test application is implemented in such a way that it can be run with no ext
 This test application is build with Mux, and Mongodb.
 
 ### User Interface
-The user interface application is located here:
+The user interface design is located here:
 [https://www.figma.com/design/HydD9vrj5ScAlC2MPeB7ku/Assessment?node-id=1-7889&node-type=frame&t=GPXIg163hidjLLdz-0](https://www.figma.com/design/HydD9vrj5ScAlC2MPeB7ku/Assessment?node-id=1-7889&node-type=frame&t=GPXIg163hidjLLdz-0)
 
 
