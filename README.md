@@ -40,7 +40,7 @@ To run test cases for the application, execute the following command from the ro
 ```
 
 ### Completed Tasks
-The rest endpoints of the app can be tested as a standalone using `postman`.
+The rest endpoints of the app can be tested as a standalone.
 This backend application implements the following tasks, per the ui requirements:
 
 - [x] **Go Mux Setup
