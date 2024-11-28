@@ -1,11 +1,11 @@
 # Numeris Book Backend Test
 
-The test application is implemented in to handle invoicing service for the test.
-The test application is implemented in such a way that it can be run with no external dependencies
-This test application is build with Mux, and Mongodb.
+The application is implemented to handle the invoicing service for the test.
+The test application is designed to run without any external dependencies.
+This test application is built using Mux and MongoDB.
 
 ### User Interface
-The user interface design is located here:
+The figma link can be found here:
 [https://www.figma.com/design/HydD9vrj5ScAlC2MPeB7ku/Assessment?node-id=1-7889&node-type=frame&t=GPXIg163hidjLLdz-0](https://www.figma.com/design/HydD9vrj5ScAlC2MPeB7ku/Assessment?node-id=1-7889&node-type=frame&t=GPXIg163hidjLLdz-0)
 
 
